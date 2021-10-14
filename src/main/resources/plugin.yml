@@ -1,0 +1,6 @@
+name: MobBlock
+version: '${project.version}'
+main: me.ghostplugins.core.MobBlock
+api-version: 1.17
+softdepend: [ lombok ]
+authors: [ GhostPlugins ]
