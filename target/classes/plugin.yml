@@ -1,0 +1,9 @@
+name: MobBlockCore
+version: '1.0-SNAPSHOT'
+main: me.ghostplugins.core.MobBlockCore
+api-version: 1.17
+authors: [ GhostPlugins ]
+commands:
+  arena:
+    description: 'Main arena command'
+    usage: /arena <idk>
